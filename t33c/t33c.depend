@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1618567205 source:c:\users\stud\desktop\ikts-91\t33c\main.cpp
+	<iostream>
+
+1623578836 source:d:\t33c\main.cpp
+	<iostream>
+	<Windows.h>
+
+1623647105 source:c:\users\Катя\desktop\t33c\main.cpp
+	<iostream>
+	<Windows.h>
+
